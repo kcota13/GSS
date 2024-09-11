@@ -188,7 +188,7 @@ model1 <- aov(WORDSUM~DEGREE,data=GSSdata)
 summary.aov(model1)
 ```
 
-
+We reject the null hypothesis. The p-value is 0.000236 which is under 0.05. There is a difference between the scores on wordsum depending on their schooling degree. 
 
 # Discussion and Conclusion
 
