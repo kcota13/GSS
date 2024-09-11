@@ -80,6 +80,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+We reject the null hypothesis because the P-value is under 0.05 and conclude that they are related.
+The Fisher exact test shows that statistically speaking if you own a gun you are 2.3 times more likely to favor capital punishment.
+
 #  Question 2
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
