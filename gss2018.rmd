@@ -190,6 +190,11 @@ summary.aov(model1)
 
 We reject the null hypothesis. The p-value is 0.000236 which is under 0.05. There is a difference between the scores on wordsum depending on their schooling degree. 
 
+```{r}
+plot(TukeyHSD(model1))
+```
+
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
