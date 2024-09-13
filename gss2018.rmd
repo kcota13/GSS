@@ -147,9 +147,9 @@ Determine if a persons performance on the wordsum test (WORDSUM) is independent 
 
 Question: Determine if a persons performance on the wordsum test (WORDSUM) is independent of their level of schooling (DEGREE).
 
-$H_0$: A persons performance on the wordsum test is not independent of their level of schooling.
+$H_0$: A persons performance on the wordsum test is independent of their level of schooling.
 
-$H_A$:A persons performance on the wordsum test is independent of their level of schooling.
+$H_A$:A persons performance on the wordsum test is not independent of their level of schooling.
 
 ##Results
 
