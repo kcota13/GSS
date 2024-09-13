@@ -81,7 +81,7 @@ fisher.test(table1)
 ```
 
 We reject the null hypothesis because the P-value is under 0.05 and conclude that they are related.
-The Fisher exact test shows that statistically speaking if you own a gun you are 2.3 times more likely to favor capital punishment.
+The Fisher exact test shows that statistically speaking if you own a gun you are 2.3:1 more likely to favor capital punishment.
 
 #  Question 2
 
@@ -194,6 +194,7 @@ We reject the null hypothesis. The p-value is 0.000236 which is under 0.05. Ther
 plot(TukeyHSD(model1))
 ```
 
+There is no statistical evidence of there being a difference in wordsum scores to those in highschool and less than highschool.
 
 # Discussion and Conclusion
 
